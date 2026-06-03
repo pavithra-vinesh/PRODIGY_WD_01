@@ -8,13 +8,20 @@ This project demonstrates a responsive and interactive navigation menu built usi
 
 FEATURES
 
-Fixed navigation bar visible at all times
-Smooth hover effects on menu items
-Dynamic style changes when scrolling
-Clean and responsive design
-Easy navigation between page sections
-Built using pure HTML, CSS, and JavaScript
-Technologies Used
+Fixed navigation bar visible at all times.
+
+Smooth hover effects on menu items.
+
+Dynamic style changes when scrolling.
+
+Clean and responsive design.
+
+Easy navigation between page sections.
+
+Built using pure HTML, CSS, and JavaScript.
+
+TECHNOLOGIES USED 
+
 HTML
 CSS
 JavaScript
