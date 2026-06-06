@@ -1,7 +1,7 @@
 # PRODIGY_WD_01
 
 # 🚀 Interactive Navigation Menu
-
+# NavFlow
 ## 📌 Project Overview
 
 This project is a responsive and interactive navigation menu built using HTML, CSS, and JavaScript. The navigation bar remains fixed at the top of the page and changes its appearance when the user scrolls or hovers over menu items.
